@@ -1,4 +1,4 @@
-puppet-sandbox
-==============
+# Vagrant puppet sanbdbox
 
-Vagrant puppet sanbdbox
+## Description
+Simple vagrant-based puppet development environment.
